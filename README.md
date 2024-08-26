@@ -1,0 +1,1 @@
+# KTU_S5_DBMS_LAB
